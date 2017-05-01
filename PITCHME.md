@@ -1,6 +1,6 @@
 # Presentation Title
 
-+++
+---
 
 ## Heading 1
 
@@ -9,7 +9,7 @@
 1. Point 3
 	* Point 3.1
 
----
++++
 
 ### H1 - Point 1
 
@@ -17,7 +17,7 @@
 * Run
 * Expect
 
----
++++
 
 ### H1 - Point 2
 
@@ -27,7 +27,7 @@ public static void main(String[] args) {
 }
 ```
 
-+++
+---
 
 ## Heading 2
 
