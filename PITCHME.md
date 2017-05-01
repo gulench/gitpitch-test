@@ -2,7 +2,7 @@
 
 ---
 
-## Heading 1
+# Heading 1
 
 1. Point 1
 1. Point 2
@@ -11,7 +11,7 @@
 
 +++
 
-### H1 - Point 1
+# H1 - Point 1
 
 * Given
 * Run
@@ -19,7 +19,7 @@
 
 +++
 
-### H1 - Point 2
+# H1 - Point 2
 
 ```java
 public static void main(String[] args) {
@@ -29,7 +29,7 @@ public static void main(String[] args) {
 
 ---
 
-## Heading 2
+# Heading 2
 
 1. Point 1
 1. Point 2
